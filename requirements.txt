@@ -1,0 +1,15 @@
+uproot==5.6.0
+tensorflow==2.19.0
+keras==3.9.0
+matplotlib==3.10.1
+tqdm==4.67.1
+awkward==2.8.1
+ipykernel==6.29.5
+vector==1.6.1
+iminuit==2.30.1
+awkward-pandas==2023.8.0
+numba-stats==1.10.1
+ipywidgets
+wandb==0.19.8
+scikit-learn==1.6.1
+ipykernel

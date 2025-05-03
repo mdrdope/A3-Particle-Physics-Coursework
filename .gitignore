@@ -1,0 +1,17 @@
+.docx
+
+__pycache__/
+
+.root
+*.root
+
+wandb/
+
+*.tmp
+
+.vscode/
+
+Thumbs.db
+Desktop.ini
+
+A3_SectionC_Q2/dataset/*.h5
